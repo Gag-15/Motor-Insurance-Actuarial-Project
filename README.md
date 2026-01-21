@@ -1,6 +1,6 @@
 # Motor-Insurance-Actuarial-Project
 This project aims to explore correlation between different variables, fit models and test assumptions based on the coursework of CS1 (Actuarial Statistics) examination. The project is made using RStudios and the data is taken from data.mendeley.com.
-> Status: IN PROGRESS (modelling underway)
+> Status: IN PROGRESS (analysis and modelling underway)
 ---
 
 ## Project Objectives
