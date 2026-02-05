@@ -62,3 +62,4 @@ a$policy_dur <- as.numeric(difftime(base_date, a$Date_start_contract, units = "d
 a$vehicle_age <- as.numeric(difftime(base_date, a$Year_matriculation, units = "days"))/365.25
 
 summary(a$vehicle_age)
+
